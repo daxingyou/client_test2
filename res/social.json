@@ -6,14 +6,14 @@
   "link": "http://www.baidu.me",
   "platforms": {
     "Wechat": {
-      "appid": "wx7cac70279e925fa2",
-      "appsecret": "b7f8725cefd630564f0c454ae8c3037f",
+      "appid": "wx7ba679531378285a",
+      "appsecret": "83454a0a27af83658f5c916bd0eea5fb",
       "ui": true,
       "order": 1
     },
     "WechatMoments": {
-      "appid": "wx7cac70279e925fa2",
-      "appsecret": "b7f8725cefd630564f0c454ae8c3037f",
+      "appid": "wx7ba679531378285a",
+      "appsecret": "83454a0a27af83658f5c916bd0eea5fb",
       "ui": true,
       "order": 2
     }
